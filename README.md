@@ -6,11 +6,12 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the process of designing, developing, testing, and maintaining software. Think of it as the way we create and manage the programs and applications that run on our computers, phones, and other devices.
-
 In the technology industry, software engineering is super important because it ensures that the software we use every day is reliable, efficient, and meets our needs. Without good software engineering, apps could crash, websites might not work properly, and overall, our digital experience would be frustrating. It's like building a house—software engineers make sure the foundation is strong and everything functions smoothly so that we can enjoy using technology without problems.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+The development of programming languages (e.g., Fortran, C). These languages were more user-friendly and closer to human language, making it easier to write, read, and maintain code making programming more accessible to a broader range of people, leading to faster development times and the growth of the software industry.
+The advent of structured programming in the 1970s introduced by figures like Edsger Dijkstra, emphasized breaking down programs into smaller, manageable sections or modules. This approach used control structures like loops and conditionals to improve the clarity and reliability of code. It led to more organized, maintainable, and less buggy software, laying the foundation for modern software engineering practices.
+The rise of agile methodologies in the 2000s focused on breaking projects into small, manageable increments and delivering working software frequently. Agile transformed software engineering by making it more adaptable to change, speeding up development cycles, and improving collaboration between developers and clients. This approach is now a standard in the tech industry, enabling companies to respond quickly to market demands.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
