@@ -14,7 +14,12 @@ The advent of structured programming in the 1970s introduced by figures like Eds
 The rise of agile methodologies in the 2000s focused on breaking projects into small, manageable increments and delivering working software frequently. Agile transformed software engineering by making it more adaptable to change, speeding up development cycles, and improving collaboration between developers and clients. This approach is now a standard in the tech industry, enabling companies to respond quickly to market demands.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Requirement Gathering and Analysis: involves understanding and documenting what the software needs to do. It includes gathering requirements from stakeholders, analyzing them, and ensuring they are clear and complete.
+Design: in the design phase, the architecture and design of the software are planned. This includes defining the overall system architecture, data models, user interfaces, and how different components will interact.
+Implementation (Coding): is where the actual code for the software is written based on the design specifications. Developers create the software using programming languages and tools.
+Testing: involves checking the software for errors, bugs, and other issues. This phase ensures that the software works as expected and meets the specified requirements.
+Deployment: the software is deployed to the production environment, where it becomes available for use by end-users. This phase may also involve installation and configuration.
+Maintenance: After deployment, the software may require updates, bug fixes, or enhancements. Maintenance ensures the software continues to function correctly and remains up-to-date.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
