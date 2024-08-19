@@ -22,9 +22,13 @@ Deployment: the software is deployed to the production environment, where it bec
 Maintenance: After deployment, the software may require updates, bug fixes, or enhancements. Maintenance ensures the software continues to function correctly and remains up-to-date.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+Waterfall Methodology is a linear and sequential approach where each phase of the SDLC is completed before moving on to the next. There is little to no overlap between phases. It is suitable for projects with well-defined requirements that are unlikely to change, such as building a safety-critical system like an air traffic control system.
+Agile Methodology is an iterative and flexible approach that allows for continuous feedback and adaptation. Development is done in small, manageable increments, known as sprints. It is ideal for projects with dynamic requirements, such as developing a mobile app where features may need to evolve based on user feedback.
+Comparison:
+Waterfall is rigid, with a clear structure, making it easier to manage and control, but it lacks flexibility. Agile is flexible, allowing changes and adjustments during the development process, but it can be harder to manage due to its less defined structure.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
